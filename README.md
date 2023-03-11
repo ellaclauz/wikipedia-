@@ -34,4 +34,6 @@ For example, consider Barack Obama's wikipedia page:
 * Barack_Obama_en.wikipedia.org_desktop_all-agents : these visits came from desktop devices.
 * Barack_Obama_en.wikipedia.org_mobile-web_all-agents: these visits came from mobile devices.
 
+Here's the link to the dashboard: https://public.tableau.com/app/profile/ekoh.stella/viz/TrafficInWijipediaPages2016/Dashboard2
+
 ![Dashboard 2](https://user-images.githubusercontent.com/100838547/223073677-47e54e7f-1efc-40ab-a7bc-3dc157cc0b7b.png)
